@@ -1,0 +1,9 @@
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+c:\users\mikae\documents\visual studio 2012\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
